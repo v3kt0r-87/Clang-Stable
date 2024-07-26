@@ -1,6 +1,6 @@
 # Clang-Stable ( Frequently Updated )
 
-### Stable builds of Clang for compiling Android Kernels ( Latest Zyc and WeebX Stable builds)
+### Latest Stable builds of Clang for compiling Android Kernels
 
 # How to use :
 
