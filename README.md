@@ -14,5 +14,10 @@ rm -rf clang && mkdir clang && tar -xvf zyc-clang.tar.gz -C clang && rm -rf zyc-
 wget "$(curl -s https://raw.githubusercontent.com/v3kt0r-87/Clang-Stable/main/clang-weebx.txt)" -O "weebx-clang.tar.gz"
 rm -rf clang && mkdir clang && tar -xvf weebx-clang.tar.gz -C clang && rm -rf weebx-clang.tar.gz
 ```
+### If you want to use Latest Beta Weebx clang then copy :
+```
+wget "$(curl -s https://raw.githubusercontent.com/v3kt0r-87/Clang-Stable/main/clang-weebx-beta.txt)" -O "weebx-clang-beta.tar.gz"
+rm -rf clang && mkdir clang && tar -xvf weebx-clang-beta.tar.gz -C clang && rm -rf weebx-clang-beta.tar.gz
+```
 
 # Thats All :)
